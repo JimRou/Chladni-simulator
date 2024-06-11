@@ -4,4 +4,5 @@ This p5.js sketch simulates Chladni figures wich appears on a a thin plate excit
 
 ## demo
 
-![](demo-chladni.gif)
+[![](demo-chladni.gif)](https://femto-physique.fr/simulations/chladni.html)
+
